@@ -8,4 +8,9 @@ public class SolarSystem {
         solar.star="2";
         System.out.println("the solar system is ready");
     }
+
+    featureSun xros = new featureSun();
+
+    planet1 renox=new planet1();
+
 }
